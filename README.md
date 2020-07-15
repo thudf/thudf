@@ -1,4 +1,5 @@
-# Arthur D'Afonseca e Silva
+<div align="left" width="500" height="auto">
+<h1>Arthur D'Afonseca e Silva</h1>
 
 <div align="center">
 
@@ -12,3 +13,5 @@
 - 👨🏻‍💻  &nbsp; Trabalho atualmente como desenvolvedor front-end </br>
 - 📚 &nbsp; Atualmente me dedico a estudar NodeJS, ReactJS e React Native </br>
 - 👨🏻‍🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas </br>
+
+</div>
