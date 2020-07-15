@@ -1,4 +1,4 @@
-<img align="right" width="400" height="auto" src="https://media.giphy.com/media/eHLql3sQLamRO/giphy.gif">
+<img align="right" width="450" height="auto" src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif">
 
 # Arthur D'Afonseca e Silva
 
