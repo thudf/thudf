@@ -1,11 +1,13 @@
-<img align="right" width="475" height="350" src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif">
-
 # Arthur D'Afonseca e Silva
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.dafonseca89@gmail.com)](mailto:arthur.dafonseca89@gmail.com)
+<div align="center">
 
-## Sobre mim
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.dafonseca89@gmail.com)](mailto:arthur.dafonseca89@gmail.com)
+
+</div>
+
+##
 
 - 👨🏻‍💻  &nbsp; Trabalho atualmente como desenvolvedor front-end </br>
 - 📚 &nbsp; Atualmente me dedico a estudar NodeJS, ReactJS e React Native </br>
