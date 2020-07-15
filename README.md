@@ -1,4 +1,3 @@
-</br>
 
 # Arthur D'Afonseca e Silva <img align="right" src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="75" height="auto"/>
 
