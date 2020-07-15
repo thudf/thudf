@@ -5,8 +5,10 @@
   
   </br>
 
-👨🏻‍💻  &nbsp; Trabalho como desenvolvedor front-end </br>
+👨🏻‍💻  &nbsp; Desenvolvedor front-end </br>
 📚 &nbsp; Atualmente me dedico a estudar NodeJS, ReactJS e React Native </br>
 👨🏻‍🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas </br>
+
+<img align="right" src="https://image.freepik.com/vetores-gratis/jogo-interior-de-quarto-de-jogador_107791-2644.jpg" />
 
 
