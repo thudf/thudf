@@ -2,19 +2,14 @@
 
 # Arthur D'Afonseca e Silva <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="75" height="auto" />
 
-<a href="https://www.linkedin.com/in/arthur-d-afonseca-885757183/">
-  <img aling="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-
-<a href="mailto:arthur.dafonseca89@gmail.com">
-  <img aling="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
-
-  </br>
+</br>
 
 👨🏻‍💻  &nbsp; Desenvolvedor front-end </br>
 📚 &nbsp; Atualmente me dedico a estudar NodeJS, ReactJS e React Native </br>
 👨🏻‍🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas </br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.dafonseca89@gmail.com)](mailto:arthur.dafonseca89@gmail.com)
 
 
 
