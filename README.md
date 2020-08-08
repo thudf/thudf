@@ -1,5 +1,3 @@
-</br>
-
 <h1>Arthur D'Afonseca e Silva</h1>
 
 Olá! Eu sou o Arthur!</br>
@@ -10,9 +8,3 @@ Hoje me dedico a estudar tecnlogias JS (NodeJS, ReactJS e React Native) e estou 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.dafonseca89@gmail.com)](mailto:arthur.dafonseca89@gmail.com)
-
-
-
-<img align="right" src="./assets/2644.jpg" width="700" height="auto" />
-
-
