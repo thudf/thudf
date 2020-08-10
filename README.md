@@ -1,4 +1,4 @@
-<h1>Arthur D'Afonseca e Silva</h1>
+<h1>Arthur D'Afonseca</h1>
 
 Olá! Eu sou o Arthur!</br>
 Tenho 31 anos, moro em Araraquara-SP e trabalhei por quase dez na industria aeronáutica na área de testes de protótipos, e agora estou no início da minha jornada como dev.</br>
