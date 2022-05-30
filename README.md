@@ -11,3 +11,7 @@ Hoje me dedico a estudar tecnlogias JS focado em front-end e estou no terceiro s
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.dafonseca89@gmail.com)](mailto:arthur.dafonseca89@gmail.com)
+
+<div align="right">
+  <image src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="400px" />
+</div>
