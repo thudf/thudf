@@ -1,4 +1,7 @@
-<h1>Arthur D'Afonseca</h1>
+<h1>
+  Arthur D'Afonseca
+  <image src="https://media.giphy.com/media/Q4O7z34lByXHg9EiSu/giphy.gif" width="120px" />
+</h1>
 
 Olá! Eu sou o Arthur!</br>
 Tenho 33 anos, moro em Araraquara-SP e trabalhei por quase dez na industria aeronáutica na área de testes de protótipos, e agora faz 2 anos e meio que estou em minha jornada como dev.</br>
