@@ -3,8 +3,8 @@
 <div align="right"> 
   <p>
     
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.dafonseca89@gmail.com)](mailto:arthur.dafonseca89@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:arthur.dafonseca89@gmail.com)
     </p>
 </div>
 
