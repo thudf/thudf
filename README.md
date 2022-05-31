@@ -23,4 +23,3 @@ Web developer with over 2 years of front end experience working with web systems
   I currently work as a front-end developer at [Red Ventures](https://www.redventures.com/).</br>
 </p>
 </div>
-
