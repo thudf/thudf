@@ -6,13 +6,6 @@
   </a>
 </p>
 
-<div align="right" width="1200px">
-  
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
- [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:arthur.dafonseca89@gmail.com)
-    
-</div>
-
 ***
 
 <div align="center">
@@ -22,4 +15,11 @@ Web developer with over 2 years of front end experience working with web systems
   
   I currently work as a front-end developer at [Red Ventures](https://www.redventures.com/).</br>
 </p>
+</div>
+
+<div align="center" width="1200px">
+  
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
+ [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>](mailto:arthur.dafonseca89@gmail.com)
+    
 </div>
