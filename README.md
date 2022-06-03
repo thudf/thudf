@@ -37,3 +37,5 @@ Web developer with over 2 years of front end experience working with web systems
  [<img src="https://user-images.githubusercontent.com/54460874/171868720-70dd0d58-6d63-48b6-8724-8392446f5f44.png" width="6.55%"/>](mailto:arthur.dafonseca89@gmail.com)
  
 </div>
+
+![office](https://user-images.githubusercontent.com/54460874/171960798-dea7beea-1a62-4887-ad09-9716966c2936.png)
