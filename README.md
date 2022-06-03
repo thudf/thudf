@@ -31,8 +31,9 @@ Web developer with over 2 years of front end experience working with web systems
 
 <div align="center" width="1200px">
   
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
- [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>](mailto:arthur.dafonseca89@gmail.com)
-    
-</div>
+  
+ [<img src="https://user-images.githubusercontent.com/54460874/171866653-7e9aae9c-7321-4dad-84dd-74f3ca900f08.png" width="5%"/>](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
+  [<img src="https://user-images.githubusercontent.com/54460874/171866294-21fc3104-82f1-489e-8906-a5df22702719.png" width="5%"/>](https://resume.io/r/6ibTOM9Hd)
+ [<img src="https://user-images.githubusercontent.com/54460874/171868720-70dd0d58-6d63-48b6-8724-8392446f5f44.png" width="6.7%"/>](mailto:arthur.dafonseca89@gmail.com)
  
+</div>
