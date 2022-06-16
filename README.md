@@ -1,41 +1,53 @@
-![Frame 1](https://user-images.githubusercontent.com/54460874/171204467-e1a4cefa-b1ff-4466-817c-f622e0b037bf.gif)
-
 <div align="center">
-  <p align="center" >
-    <a href="#-about-me"> About me </a> |
-    <a href="#-technologies"> Technologies </a> |
-    <a href="#-contacts"> Contacts </a>
-  </p>
+  <img height="" src="https://user-images.githubusercontent.com/54460874/171204467-e1a4cefa-b1ff-4466-817c-f622e0b037bf.gif"  />
 </div>
 
-## 🧑🏻‍💻 About Me
+<div align="center">
+</br>
 
-<div align="left">
+## 🧑🏻‍💻 About Me
+</br>
+<div align="center">
 Web developer with over 2 years of front end experience working with web systems and dynamic/static sites. Interested in JavaScript frameworks, working mainly with ReactJS and related technologies as NextJS, GatsbyJS, TypeScript and Micro Front End (Single-SPA).
 </br></br>
-<p>
+<p align="center">
   
   I currently work as a front-end developer at [Red Ventures](https://www.redventures.com/).</br>
 </p>
+</div>
+</br>
 
 ## 🚀 Technologies
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,webpack,git,react,redux,gatsby,nextjs" />
-  </a>
-</p>
+</br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" width="52" alt="less logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="40" width="52" alt="stylus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="40" width="52" alt="gatsby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
+</br>
 
 ## 📫 Contacts
+</br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthur-d-afonseca-885757183/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="arthur.dafonseca89@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+</br>
 
-<div align="center" width="1200px">
-  
-  
- [<img src="https://user-images.githubusercontent.com/54460874/171866653-7e9aae9c-7321-4dad-84dd-74f3ca900f08.png" width="5%"/>](https://www.linkedin.com/in/arthur-d-afonseca-885757183/)
-  [<img src="https://user-images.githubusercontent.com/54460874/171866294-21fc3104-82f1-489e-8906-a5df22702719.png" width="5%"/>](https://resume.io/r/6ibTOM9Hd)
- [<img src="https://user-images.githubusercontent.com/54460874/171868720-70dd0d58-6d63-48b6-8724-8392446f5f44.png" width="6.55%"/>](mailto:arthur.dafonseca89@gmail.com)
- 
 </div>
 
-![office](https://user-images.githubusercontent.com/54460874/171960798-dea7beea-1a62-4887-ad09-9716966c2936.png)
+<img href="https://raw.githubusercontent.com/thudf/thudf/blob/output/snake.svg" alt="Snake animation" />
