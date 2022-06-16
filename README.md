@@ -50,4 +50,4 @@ Web developer with over 2 years of front end experience working with web systems
 
 </div>
 
-<img href="https://raw.githubusercontent.com/thudf/thudf/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/thudf/thudf/blob/output/github-contribution-grid-snake.gif)
