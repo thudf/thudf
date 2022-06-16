@@ -5,7 +5,7 @@
 <div align="center">
 </br>
 
-## 🧑🏻‍💻 About Me
+## About Me
 </br>
 <div align="center">
 Web developer with over 2 years of front end experience working with web systems and dynamic/static sites. Interested in JavaScript frameworks, working mainly with ReactJS and related technologies as NextJS, GatsbyJS, TypeScript and Micro Front End (Single-SPA).
@@ -17,7 +17,7 @@ Web developer with over 2 years of front end experience working with web systems
 </div>
 </br>
 
-## 🚀 Technologies
+## Technologies
 </br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
@@ -36,7 +36,7 @@ Web developer with over 2 years of front end experience working with web systems
 </div>
 </br>
 
-## 📫 Contacts
+## Contacts
 </br>
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-d-afonseca-885757183/" target="_blank">
