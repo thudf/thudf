@@ -8,7 +8,7 @@
 ## About Me
 </br>
 <div align="center">
-Web developer with over 2 years of front end experience working with web systems and dynamic/static sites. Interested in JavaScript frameworks, working mainly with ReactJS and related technologies as NextJS, GatsbyJS, TypeScript and Micro Front End (Single-SPA).
+Web developer with over 4 years of front end experience working with web systems and dynamic/static sites. Interested in JavaScript frameworks, working mainly with ReactJS and related technologies as NextJS, GatsbyJS, TypeScript and Micro Front End (Single-SPA).
 </br></br>
 <p align="center">
   
@@ -49,8 +49,3 @@ Web developer with over 2 years of front end experience working with web systems
 </br>
 
 </div>
-
-<div align="center">
-  
-  ![snake gif](https://github.com/thudf/thudf/blob/output/github-contribution-grid-snake.svg)
- </div>
