@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="" src="https://user-images.githubusercontent.com/54460874/171204467-e1a4cefa-b1ff-4466-817c-f622e0b037bf.gif"  />
-</div>
-
-<div align="center">
 </br>
 
 ## About Me
